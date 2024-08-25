@@ -1,6 +1,6 @@
 import os
 
-pathsToClean = ["D:/Programs/Java"]
+pathsToClean = ["/home/notxander/Programs/java/Java"]
 
 for path in pathsToClean:
     print(f"Scanning directory {path}")
